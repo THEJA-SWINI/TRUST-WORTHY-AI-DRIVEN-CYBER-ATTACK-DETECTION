@@ -23,4 +23,4 @@ An AI-powered web application that detects and analyzes potential cyber threats 
 - Automated response system
 
 ## Author
-Thejaswini Surendra Gowda
+D S TEJASWINI
